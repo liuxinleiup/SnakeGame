@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bk.png</file>
+        <file>images/game.mp3</file>
+        <file>images/mu.mp3</file>
+        <file>images/page.mp4</file>
+    </qresource>
+</RCC>
